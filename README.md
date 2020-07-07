@@ -1,20 +1,15 @@
 # SeaFour
-Running instance at https://seafour.pro/
 
-`Powered by Node.js`
+Powered by ~~Node.JS~~  PHP`
 
 ### Depends Upon
-* Node.JS
-* Express
-* MongoDB
-* ImageMagick
-* WS & HTTP
+* PHP
 
-### Donate Bitcoin at `1Bmo74LBR6PFBtdsMnFms1rLqYFVDXCyvG`
+### Donate Bitcoin at `1Bmo74LBR6PFBtdsMnFms1rLqYFVDXCyvG` to support the original developer
 
 ### Developer Notes
-The key files responsible for the functionality of the site are server.js and 
-public/client.js. 
+~~The key files responsible for the functionality of the site are server.js and 
+public/client.js. ~~
 
 
 Indents should be done in the Stroustrup variant of K&R style 
@@ -34,26 +29,3 @@ function funcName(args) {
     return args + 1;
 }
 ```
-
-### To Run
-* First, change directory to the location of your SeaFour folder. For me, this would be
-
-
-  `cd ~/Prog/WebDev/SeaFour/`
-
-
-* Next, npm install the dependencies in `package.json`.
-
-
-  `npm install package.json`
-  
-
-* Finally, run node's server.js file.  
-
-
-  `node server.js`
-
-
-* You're now running SeaFour. 
-
-Copyright (c) 2015 Landon Powell
